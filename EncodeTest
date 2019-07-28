@@ -1,0 +1,6 @@
+public class EncodeTest {
+    public static void main(String[] args){
+        System.out.println("测试通过git提交github 的项目，还乱码吗？");
+        System.out.println("怎么回事呢？");
+    }
+}
