@@ -5,6 +5,6 @@ package com.xiaoma;
  */
 public class TestClass {
     public static void main(String[] args){
-        System.out.println("测试通过git提交github 的项目，还乱码吗？");
+        System.out.println("鎬庝箞鍥炰簨鍛紵");
     }
 }
